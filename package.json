@@ -1,0 +1,26 @@
+{
+  "name": "dress-like-a-boss",
+  "version": "1.0.0",
+  "description": "An app designed to help style/create interview looks for tech jobs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KatBunny/Dress-Like-A-Boss.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KatBunny/Dress-Like-A-Boss/issues"
+  },
+  "homepage": "https://github.com/KatBunny/Dress-Like-A-Boss#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^7.1.0"
+  }
+}
